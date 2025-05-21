@@ -104,7 +104,7 @@ fasttext==0.9.3
 ffmpy==0.5.0
 filelock==3.17.0
 filetype==1.2.0
-Flask==3.1.0
+Flask==3.1.1
 flatbuffers==25.1.24
 fonttools==4.55.8
 fqdn==1.5.1
