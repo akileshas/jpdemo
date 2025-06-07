@@ -432,7 +432,7 @@ tokenizers==0.21.0
 toml==0.10.2
 tomlkit==0.13.2
 toolz==1.0.0
-torch==2.7.0
+torch==2.7.1
 torch-xla==2.6.0
 torchaudio==2.6.0
 torchmetrics==1.5.2
