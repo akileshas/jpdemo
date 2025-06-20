@@ -361,7 +361,7 @@ requests==2.32.4
 requests-auth-aws-sigv4==0.7
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
-rfc3161-client==0.1.2
+rfc3161-client==1.0.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc8785==0.1.4
