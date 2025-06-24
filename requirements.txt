@@ -227,7 +227,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.1
 ml-dtypes==0.4.1
-mlflow==2.20.3
+mlflow==3.1.0
 mlflow-skinny==2.20.1
 model-signing==0.2.0
 monotonic==1.6
